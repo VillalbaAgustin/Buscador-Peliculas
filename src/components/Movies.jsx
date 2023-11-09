@@ -1,5 +1,5 @@
 import React from "react";
-import { useMovies } from "../hooks";
+
 
 export const Movies = ({movies}) => {
 
